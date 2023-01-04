@@ -229,16 +229,6 @@
         "serialNumberDevice": "110100000070",
         "typeDevice": "Module"
     },
-    "110100000071": {
-        "dateCreated": "",
-        "dateModified": "",
-        "description": "Model:\t\tMFS1101\nDải đo:\t\t± 50N\nĐộ phân dải:\t0.001N\nGiao tiếp:\t\tRS485\nSản xuất:\twww.vee.com.vn\n",
-        "iconPath": ":/image/MFS1101_Icon.jpg",
-        "nameDevice": "Mô đun Đo Lực 1",
-        "objectName": "vdevice110100000071",
-        "serialNumberDevice": "110100000071",
-        "typeDevice": "Module"
-    },
     "110200000070": {
         "dateCreated": "",
         "dateModified": "",

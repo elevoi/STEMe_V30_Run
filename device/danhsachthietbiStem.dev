@@ -22,7 +22,7 @@
     "010100000101": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tATH0101\nDải đo:\t\t-20 ~ 450*C\nĐộ phân dải:\t0.01 *C\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "description": "Model:\t\tATH0101\nDải đo:\t\t-50 ~ 200*C\nĐộ phân dải:\t0.01 *C\nGiao tiếp:\t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/Temperature_icon.jpg",
         "nameDevice": "Cảm biến nhiệt độ",
         "objectName": "vdevice010100000101",
@@ -42,7 +42,7 @@
     "010300000103": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tWHL0103\nGiải đo:\t\t1000g\nĐộ phân dải:\t1g\nGiao tiếp:\t\tRS485,RS232\nNhà sản xuất:\twww.vee.com.vn",
+        "description": "Model:\t\tWHL0103\nGiải đo:\t\t5000g\nĐộ phân dải:\t1g\nGiao tiếp:\t\tRS485,RS232\nNhà sản xuất:\twww.vee.com.vn",
         "iconPath": ":/image/WHL0103_Icon.jpg",
         "nameDevice": "Cảm biến trọng lượng",
         "objectName": "vdevice010300000103",
@@ -52,7 +52,7 @@
     "010400000104": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tPRS0104\nDải đo:\t\t0 ~ 1000 hPa\nĐộ phân dải:\t0.1 hPa\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "description": "Model:\t\tPRS0104\nDải đo:\t\t0 ~ 250 kPa\nĐộ phân dải:\t0.1 hPa\nGiao tiếp:\t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/PSR0104_Icon.jpg",
         "nameDevice": "Đo áp suất",
         "objectName": "vdevice010400000104",
@@ -92,7 +92,7 @@
     "010800000108": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "- Kiểu (model): \tOSA0108\n- Dải đo:\t\t0 ~ 25%Vol\n- Độ phân dải: \t0.01%Vol\n- Giao tiếp:\t\tRS485 (Modbus RTU)\n",
+        "description": "- Kiểu (model): \tOSA0108\n- Dải đo:\t\t0 ~ 30%Vol\n- Độ phân dải: \t0.01%Vol\n- Giao tiếp:\t\tRS485 (Modbus RTU)\n",
         "iconPath": ":/image/OxygenSensorIcon_White.jpg",
         "nameDevice": "Cảm biến nồng độ Oxy",
         "objectName": "vdevice010800000108",
@@ -102,7 +102,7 @@
     "010900000109": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tSAS0109\nDải đo:\t\t0 ~ 35 ppt\nĐộ phân dải:\t0.01 ppt\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "description": "Model:\t\tSAS0109\nDải đo:\t\t0 ~ 50 ppt\nĐộ phân dải:\t0.01 ppt\nGiao tiếp:\t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/SAS0109_Icon.jpg",
         "nameDevice": "Cảm biến độ mặn",
         "objectName": "vdevice010900000109",
@@ -112,7 +112,7 @@
     "011001102206": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tCOA0110\nDải đo:\t\t0 `~ 10000 ppm\nĐộ phân dải:\t1 ppm\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "description": "Model:\t\tCOA0110\nDải đo:\t\t0 `~ 50000 ppm\nĐộ phân dải:\t1 ppm\nGiao tiếp:\t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/COA0110_Icon.jpg",
         "nameDevice": "Cảm biến CO2",
         "objectName": "vdevice011001102206",
@@ -212,7 +212,7 @@
     "015100000151": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tCUR0151\nDải đo:\t\t ±1 (A)\nĐộ phân dải:\t0.001 (A)\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "description": "Model:\t\tCUR0151\nDải đo:\t\t ±3 (A)\nĐộ phân dải:\t0.001 (A)\nGiao tiếp:\t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/CUR0151_Icon.jpg",
         "nameDevice": "Ampe kế",
         "objectName": "vdevice015100000151",

@@ -179,6 +179,16 @@
         "serialNumberDevice": "011600000104",
         "typeDevice": "Sensor"
     },
+    "011700000117": {
+        "dateCreated": "",
+        "dateModified": "",
+        "description": "Model:\t\tSOL0117\nDải đo:\t\t30 ~ 130 dB\nĐộ phân dải:\t0.03 dB\nGiao tiếp:\t\tRS485 (Modbus RTU)",
+        "iconPath": ":/image/SOL0117_Icon.jpg",
+        "nameDevice": "Đo mức âm thanh",
+        "objectName": "vdevice011700000117",
+        "serialNumberDevice": "011700000117",
+        "typeDevice": "Sensor"
+    },
     "012000000130": {
         "dateCreated": "",
         "dateModified": "",

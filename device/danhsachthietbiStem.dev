@@ -119,14 +119,14 @@
         "serialNumberDevice": "011001102206",
         "typeDevice": "Sensor"
     },
-    "011100000336": {
+    "011100000111": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tATH0111\nDải đo:\t\t0 ~ 1000 *C\nĐộ phân dải:\t0.1 *C\nGiao tiếp:\t\tRS485 (Modbus RTU)",
-        "iconPath": ":/image/ATH0111_Icon.jpg",
-        "nameDevice": "Cảm biến nhiệt độ K",
-        "objectName": "vdevice011100000336",
-        "serialNumberDevice": "011100000336",
+        "description": "- Model:\t\tTUR0111\n- Độ đục:\n      Dải đo: \t\t0 ~ 200 (NTU)\n      Độ phân dải               0.1 (NTU)\n- Giao tiếp: \t\tRS485 (Modbus RTU)",
+        "iconPath": ":/image/TUR0111_Icon.jpg",
+        "nameDevice": "Cảm biến độ đục",
+        "objectName": "vdevice011100000111",
+        "serialNumberDevice": "011100000111",
         "typeDevice": "Sensor"
     },
     "011200000124": {
@@ -139,14 +139,14 @@
         "serialNumberDevice": "011200000124",
         "typeDevice": "Sensor"
     },
-    "011300000012": {
+    "011300000113": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tMOV0113\nDải đo:\t\t0.15 ~ 1.6 m\nĐộ phân dải:\t0.05 m\nGiao tiếp:\t\tRS485 (Modbus RTU)",
-        "iconPath": ":/image/MOVE0113_Icon.jpg",
-        "nameDevice": "Cảm biến chuyển động",
-        "objectName": "vdevice011300000012",
-        "serialNumberDevice": "011300000012",
+        "description": "- Model:\t\tCLS0113\n- Màu:\n      Red: \t\t10 ~ 90 %\n      Green: \t\t10 ~ 90 %\n      Blue: \t\t10 ~ 90 %\n- Giao tiếp: \t\tRS485 (Modbus RTU)",
+        "iconPath": ":/image/CLS0113_Icon.jpg",
+        "nameDevice": "Cảm biến màu",
+        "objectName": "vdevice011300000113",
+        "serialNumberDevice": "011300000113",
         "typeDevice": "Sensor"
     },
     "011400000192": {
@@ -189,14 +189,14 @@
         "serialNumberDevice": "011700000117",
         "typeDevice": "Sensor"
     },
-    "012000000130": {
+    "012000000120": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "",
+        "description": "- Model:\t\tHRS0120\n- Điện áp:\n      Dải đo: \t\t0 ~ 4 (V)\n      Độ phân dải               0.001 (V)\n- Giao tiếp: \t\tRS485 (Modbus RTU)",
         "iconPath": ":/image/HRS0120_Icon.jpg",
         "nameDevice": "Cảm biến nhịp tim",
-        "objectName": "vdevice012000000130",
-        "serialNumberDevice": "012000000130",
+        "objectName": "vdevice012000000120",
+        "serialNumberDevice": "012000000120",
         "typeDevice": "Sensor"
     },
     "012100000121": {
@@ -207,6 +207,16 @@
         "nameDevice": "Cảm biến khoảng cách",
         "objectName": "vdevice012100000121",
         "serialNumberDevice": "012100000121",
+        "typeDevice": "Sensor"
+    },
+    "012300000123": {
+        "dateCreated": "",
+        "dateModified": "",
+        "description": "- Model:\t\tMOV0123\n- Điện áp:\n      Dải đo: \t\t0 ~ 4 (V)\n      Độ phân dải               0.001 (V)\n- Giao tiếp: \t\tRS485 (Modbus RTU)",
+        "iconPath": ":/image/MOVE0113_Icon.jpg",
+        "nameDevice": "Cảm biến chuyển động",
+        "objectName": "vdevice012300000123",
+        "serialNumberDevice": "012300000123",
         "typeDevice": "Sensor"
     },
     "015000000150": {
@@ -227,6 +237,16 @@
         "nameDevice": "Ampe kế",
         "objectName": "vdevice015100000151",
         "serialNumberDevice": "015100000151",
+        "typeDevice": "Sensor"
+    },
+    "016300000163": {
+        "dateCreated": "",
+        "dateModified": "",
+        "description": "- Model:\t\tACS0163\n- Gia tốc:\n      Dải đo: \t\t-30 ~ 30 G\n      Độ phân dải: \t0.01 G\n- Giao tiếp: \t\tRS485 (Modbus RTU)",
+        "iconPath": ":/image/ACS0163_Icon.jpg",
+        "nameDevice": "Cảm biến gia tốc",
+        "objectName": "vdevice016300000163",
+        "serialNumberDevice": "016300000163",
         "typeDevice": "Sensor"
     },
     "110100000070": {
